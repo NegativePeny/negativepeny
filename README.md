@@ -23,7 +23,7 @@ Saya bisa:
 * 🔥 Mengetik: `JANGAN UBAH YANG LAIN`
 * 🗿 Mengetik: `lanjutkan`
 
-### 🪄 Skill Utama
+### 🤹‍♀️ Skill Utama
 
 ```text
 HTML          █████████░  90%  (Copas)
@@ -139,21 +139,3 @@ Memahami Error      ███░░░░░░░ 30%
 Menyalahkan AI      ██████████ 100%
 Mecuti AI           ██████████ 100%
 ```
-
-## 🤝 Jika Mau Berkolaborasi
-
-Silakan buka **Issue**.
-
-Tapi sebelum itu...
-
-Saya akan tanyakan ke AI dulu. 🤖
-
----
-
-### ⭐ Kalau project ini membantu kamu...
-
-Jangan lupa kasih star ⭐
-
-Biar AI saya merasa hasil kerjanya dihargai.
-
-**Made with ❤️, ☕, GitHub, dan tenaga AI.**
