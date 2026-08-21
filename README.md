@@ -51,59 +51,6 @@ Yang sebenarnya saya gunakan:
 * 🗿 Google
 * 💻 VS Code
 
-Yang katanya saya gunakan:
-
-`PHP` · `Laravel` · `JavaScript` · `Vue` · `MySQL` · `Git`
-
-Yang sebenarnya terjadi:
-
-```text
-Saya:
-"AI, buatkan fitur login."
-
-AI:
-"Baik."
-
-Saya:
-"Bagus."
-
-AI:
-"Ini error."
-
-Saya:
-"AI, fix."
-
-AI:
-"Sudah."
-
-Saya:
-"Kenapa fitur yang lain rusak?"
-
-AI:
-"..."
-
-
-Saya:
-"AI?"
-
-AI:
-"💀"
-```
-
-## 🧠 Development Workflow
-
-```mermaid
-graph TD
-    A[💡 Punya Ide] --> B[🤖 Suruh AI]
-    B --> C[📋 Copy Paste]
-    C --> D[▶️ Jalankan]
-    D --> E{Error?}
-    E -->|Ya| F[📸 Screenshot Error]
-    F --> B
-    E -->|Tidak| G[🎉 Merasa Jadi Programmer]
-    G --> H[🚀 Push ke GitHub]
-```
-
 ## 🏆 Achievement Unlocked
 
 * [x] Berhasil membuat website
